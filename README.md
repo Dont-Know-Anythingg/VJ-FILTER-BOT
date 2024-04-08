@@ -91,7 +91,7 @@ Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Updat
 <details><summary><b>Deploy To Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/VJBots/VJ-Filter-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/Dont-Know-Anythingg/VJ-FILTER-BOT">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
